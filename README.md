@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="684" src="https://static.wixstatic.com/media/5cfe14_30977ca5f4d04cc2a8977a980baf19a9~mv2.gif"  />
+  <img height="300" src="https://static.wixstatic.com/media/5cfe14_30977ca5f4d04cc2a8977a980baf19a9~mv2.gif"  />
 </div>
 
 ###
