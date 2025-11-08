@@ -8,17 +8,6 @@
 
 ### 
 
-Tecnologias e Ferramentas
--  **Python**
--  **Power BI**
--  **Excel**
--  **SQL**
--  **Looker Studio**
--  **Machine Learning**
--  **Banco de Dados**
-
----
-
 ###
 
 <div align="left">
