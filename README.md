@@ -1,15 +1,6 @@
 ![Image](https://github.com/user-attachments/assets/b18d02b4-62eb-4238-a074-1347a6708c5b)
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luizfern6789-sketch&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luizfern6789-sketch&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
-
-### 
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
