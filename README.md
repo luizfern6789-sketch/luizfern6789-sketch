@@ -3,9 +3,21 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luizfern6789-sketch&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=luizfern6789-sketch&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=luizfern6789-sketch&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
+
+### 
+
+Tecnologias e Ferramentas
+-  **Python**
+-  **Power BI**
+-  **Excel**
+-  **SQL**
+-  **Looker Studio**
+-  **Machine Learning**
+-  **Banco de Dados**
+
+---
 
 ###
 
