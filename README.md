@@ -1,7 +1,4 @@
-<div align="center">
-  <img height="300" src="https://static.wixstatic.com/media/5cfe14_30977ca5f4d04cc2a8977a980baf19a9~mv2.gif"  />
-</div>
-
+![Image](https://github.com/user-attachments/assets/b18d02b4-62eb-4238-a074-1347a6708c5b)
 ###
 
 <div align="center">
